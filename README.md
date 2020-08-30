@@ -1,4 +1,4 @@
-Live demo to user side - https://shailendra-customermanagement.herokuapp.com/
+Live demo to user side - https://shailendra-customermanagement.herokuapp.com/ <br/>
 Live demo to admin site - https://shailendra-customermanagement.herokuapp.com/ 
 
 This is an implementation for a customer management application for any e-commerce company using django framework .
@@ -8,7 +8,8 @@ Python , html ,css and javascript is used in making this app.
 crm1 is the primary application and accounts is the secondary applications which is performing all the 
 important tasks int application .
 
-Some screenshots of the application-
+Some screenshots of the application-<br/>
+User Part of the application
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/51224796/91654440-5513b300-eac6-11ea-870d-217536017f18.png)
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
