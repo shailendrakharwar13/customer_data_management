@@ -12,7 +12,7 @@ Some screenshots of the application-
 user side-
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/51224796/91654440-5513b300-eac6-11ea-870d-217536017f18.png)
-$~~~~~~~~~~~~~~~~~$  Front Page of Application
+                <br>  Front Page of Application<br/>
                         
 ![Screenshot (249)](https://user-images.githubusercontent.com/51224796/91654442-59d86700-eac6-11ea-87de-18c9b5e2c34f.png)
 $-----------------$Login/Logout/Registration page
