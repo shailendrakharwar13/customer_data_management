@@ -32,4 +32,4 @@ Admin Part of the application
 '                         Admin Page
                          
 ![Screenshot (254)](https://user-images.githubusercontent.com/51224796/91654450-6492fc00-eac6-11ea-9e8b-97194a25e9f0.png)
-'                         List of users
+<p>                         List of users                              </p>
