@@ -8,11 +8,11 @@ Python , html ,css and javascript is used in making this app.
 crm1 is the primary application and accounts is the secondary applications which is performing all the 
 important tasks int application .
 
-Some scrrenshots of the application-
+Some screenshots of the application-
 user side-
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/51224796/91654440-5513b300-eac6-11ea-870d-217536017f18.png)
- '                       Front page of the application
+&emsp &emsp &emspFront page of the application
                         
 ![Screenshot (249)](https://user-images.githubusercontent.com/51224796/91654442-59d86700-eac6-11ea-87de-18c9b5e2c34f.png)
 '                       Login/Logout/Registration page
