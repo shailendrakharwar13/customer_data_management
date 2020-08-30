@@ -1,5 +1,3 @@
-Live demo to user side - https://shailendra-customermanagement.herokuapp.com/ <br/>
-Live demo to admin site - https://shailendra-customermanagement.herokuapp.com/ 
 
 This is an implementation for a customer management application for any e-commerce company using django framework .
 The application can store record of any customer. can perform all the crud applications succesfully.
@@ -33,3 +31,6 @@ Admin Part of the application
                          
 ![Screenshot (254)](https://user-images.githubusercontent.com/51224796/91654450-6492fc00-eac6-11ea-9e8b-97194a25e9f0.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;                       List of users                              
+<br/><br/>
+Live demo to user side - https://shailendra-customermanagement.herokuapp.com/ <br/>
+Live demo to admin site - https://shailendra-customermanagement.herokuapp.com/ 
