@@ -12,10 +12,10 @@ Some screenshots of the application-
 user side-
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/51224796/91654440-5513b300-eac6-11ea-870d-217536017f18.png)
-                    -Front page of the application
+$-----------------$Front page of the application
                         
 ![Screenshot (249)](https://user-images.githubusercontent.com/51224796/91654442-59d86700-eac6-11ea-87de-18c9b5e2c34f.png)
-'                       Login/Logout/Registration page
+$-----------------$Login/Logout/Registration page
                         
 ![Screenshot (250)](https://user-images.githubusercontent.com/51224796/91654444-5d6bee00-eac6-11ea-8651-b00bb0aa1dcd.png)
 '                        Details of specific user
