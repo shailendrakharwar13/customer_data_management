@@ -1,12 +1,13 @@
-
+#Customer Management Application
 Steps to Install on Local Machine
 
 1. clone the github repository.
 2. create a virtual environment  and install django=3.0.5
 3. Install Django-filter on the virtual environment
 4. import the database by running the command "python manage.py migrate" and "python manage.py makemigrations"
-5. create a superuser using "createsuperuser" command
+5. create a superuser using "createsuperuser name" command.
 6. Run the "python manage.py runserver" command and the app will start on the local port http://127.0.0.1:8000/
+
 
 
 This is an implementation for a customer management application for any e-commerce company using django framework .
