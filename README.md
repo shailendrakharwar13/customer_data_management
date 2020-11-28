@@ -1,4 +1,4 @@
-#Customer Management Application
+# Customer Management Application
 Steps to Install on Local Machine
 
 1. clone the github repository.
