@@ -25,7 +25,7 @@ User Part of the application
                         
                        
  ![Screenshot (29)](https://user-images.githubusercontent.com/51224796/100520237-c5fc6100-31c2-11eb-8bdc-ff7193e363c6.png)
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Custom Page for every Customer<br/>
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Custom Page for every Customer<br/>
    
                    
   
