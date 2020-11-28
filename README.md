@@ -15,8 +15,7 @@ User Part of the application
  ![Screenshot (29)](https://user-images.githubusercontent.com/51224796/100520237-c5fc6100-31c2-11eb-8bdc-ff7193e363c6.png)
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Customer Page of Application
    
-   ![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520149-58503500-31c2-11eb-9e25-6d16b90b95b8.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
+  
 ![Screenshot (28)](https://user-images.githubusercontent.com/51224796/100520154-5b4b2580-31c2-11eb-92b6-c42a6c05bbd3.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
 ![Screenshot (33)](https://user-images.githubusercontent.com/51224796/100520157-5dad7f80-31c2-11eb-81c0-3833e783503c.png)
