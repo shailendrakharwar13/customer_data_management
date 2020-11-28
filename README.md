@@ -29,11 +29,6 @@ User Part of the application
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
 ![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520144-52f2ea80-31c2-11eb-8ad2-bdb17d33ce35.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
-![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520147-55554480-31c2-11eb-90dd-a8169b853e8b.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
-
-
 
 <br/><br/>
-Live demo to user side - https://shailendra-customermanagement.herokuapp.com/ <br/>
-Live demo to admin site - https://shailendra-customermanagement.herokuapp.com/ 
+
