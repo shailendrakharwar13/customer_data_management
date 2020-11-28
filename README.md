@@ -14,14 +14,8 @@ User Part of the application
                         
  ![Screenshot (29)](https://user-images.githubusercontent.com/51224796/100520237-c5fc6100-31c2-11eb-8bdc-ff7193e363c6.png)
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Customer Page of Application
-                        
-![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520141-4e2e3680-31c2-11eb-8c43-a2744006e6fb.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
-![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520144-52f2ea80-31c2-11eb-8ad2-bdb17d33ce35.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
-![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520147-55554480-31c2-11eb-90dd-a8169b853e8b.png)
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
-![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520149-58503500-31c2-11eb-9e25-6d16b90b95b8.png)
+   
+   ![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520149-58503500-31c2-11eb-9e25-6d16b90b95b8.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
 ![Screenshot (28)](https://user-images.githubusercontent.com/51224796/100520154-5b4b2580-31c2-11eb-92b6-c42a6c05bbd3.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
@@ -31,6 +25,15 @@ User Part of the application
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
 ![Screenshot (30)](https://user-images.githubusercontent.com/51224796/100520165-63a36080-31c2-11eb-90f2-1513a1d88d4c.png)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
+                        
+![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520141-4e2e3680-31c2-11eb-8c43-a2744006e6fb.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
+![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520144-52f2ea80-31c2-11eb-8ad2-bdb17d33ce35.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
+![Screenshot (23)](https://user-images.githubusercontent.com/51224796/100520147-55554480-31c2-11eb-90dd-a8169b853e8b.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Front Page of Application
+
+
 
 <br/><br/>
 Live demo to user side - https://shailendra-customermanagement.herokuapp.com/ <br/>
