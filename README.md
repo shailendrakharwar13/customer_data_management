@@ -13,7 +13,7 @@ Steps to Install on Local Machine
 This is an implementation for a customer management application for any e-commerce company using django framework .
 The application can store record of any customer. can perform all the crud applications succesfully.
 Any external user can create there personal sign up and login/logout page. 
-Python , html ,css and javascript is used in making this app.
+Python , html ,css and javascript is being  used in making this app.
 crm1 is the primary application and accounts is the secondary applications which is performing all the 
 important tasks int application .
 
